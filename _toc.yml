@@ -1,0 +1,15 @@
+- file: introduction
+  numbered: true
+
+- part: Part 1
+  chapters:
+  - file: chapter1
+    sections:
+      - file: variables
+      - file: section2
+  - file: markdown
+    sections:
+      - file: section
+  - file: content
+  - file: intro
+  - file: notebooks
